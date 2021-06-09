@@ -1,0 +1,36 @@
+﻿  Lab03.cpp
+  Menus.cpp
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(153,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(164,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(262,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(375,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(509,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(522,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(523,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(665,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(838,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(851,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1337,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1350,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1351,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1539,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1649,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1660,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1759,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1871,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(1999,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(2012,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Menus.cpp(2013,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Btee.h(71): warning C4715: BTree<int>::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Btee.h(71): warning C4715: BTree<float>::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Btee.h(71): warning C4715: BTree<Complex>::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Btee.h(71): warning C4715: BTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\Btee.h(71): warning C4715: BTree<Person>::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\BQ.h(86): warning C4715: BQ<int>::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\BQ.h(86): warning C4715: BQ<float>::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\BQ.h(86): warning C4715: BQ<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\BQ.h(86): warning C4715: BQ<Complex>::finder: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\lab03\Lab03\Lab03\BQ.h(86): warning C4715: BQ<Person>::finder: значение возвращается не при всех путях выполнения
+  Lab03.vcxproj -> C:\Users\Zalman\Desktop\lab03\Lab03\Debug\Lab03.exe
